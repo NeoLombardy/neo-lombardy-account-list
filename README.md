@@ -5,10 +5,11 @@ Individual projects may have their own accounts and pages, which should be liste
 **Neo-Lombardy accounts**
 Account | Managers
 ------------ | -------------
+[Curseforge](https://www.curseforge.com/members/neolombardy/projects) | Nostalgic
 [Discord](https://discord.gg/GkpGbDx) | 
 [GameJolt](https://gamejolt.com/@Neo-Lombardy) | Nostalgic
 [GitHub](https://github.com/NeoLombardy) | Nostalgic
-[GitHub site](https://neolombardy.github.io) | Nostalgic and Tesco Man
+[GitHub site](https://neolombardy.github.io) | Nostalgic, Tesco Man
 [Internet Archive](https://archive.org/details/@neo-lombardy) | Nostalgic
 [Protonmail](mailto:neolombardy@protonmail.ch) | Nostalgic
 [Subreddit](https://www.reddit.com/r/neolombardy/) | 
