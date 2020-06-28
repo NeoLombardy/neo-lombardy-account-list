@@ -10,6 +10,7 @@ Account | Managers
 [GitHub](https://github.com/NeoLombardy) | Nostalgic
 [GitHub site](https://neolombardy.github.io) | Nostalgic and Tesco Man
 [Internet Archive](https://archive.org/details/@neo-lombardy) | Nostalgic
+[Protonmail](mailto:neolombardy@protonmail.ch) | Nostalgic
 [Subreddit](https://www.reddit.com/r/neolombardy/) | 
 [Twitter](https://twitter.com/neolombardy) | Nostalgic<br/>
 
