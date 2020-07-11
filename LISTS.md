@@ -62,9 +62,3 @@ Account | Member
 [YouTube](https://www.youtube.com/channel/UCZkjNeTZg4tPzNZy24jmVZw) | Spaceagator
 [YouTube](https://www.youtube.com/channel/UCsbBbaGK-D-QuobiOnEmn6A) | Tesco Man
 <br/>
-
-**Projects without a GitHub repository or Discord channel**
-Name | Homepage
------------- | -------------
-The Lunch Table | [Bandcamp](https://thelunchtable.bandcamp.com/)
-<br/>
